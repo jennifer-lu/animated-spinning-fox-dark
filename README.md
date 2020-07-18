@@ -3,6 +3,11 @@
 A dark theme with a spinning fox animation for Firefox.
 
 
+## Demo
+
+![theme-demo](https://github.com/jennifer-lu/Animated-Spinning-Dark-Firefox-Theme/blob/master/demo.gif)
+
+
 ## Installation
 
 Install the theme at Firefox's add-ons website (https://addons.mozilla.org/en-CA/firefox/addon/animated-spinning-fox-dark/?src=search). Then, enable the theme in your Firefox preferences.
