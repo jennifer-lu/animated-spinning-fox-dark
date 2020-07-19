@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "version": "1.1",
-  "name": "ANIMATED Spinning Fox Dark",
+  "version": "1.0",
+  "name": "ANIMATED - Spinning Fox Dark",
   "theme": {
     "images": {
       "additional_backgrounds": [
-        "images/spinning_fox.png"
+        "spinning_fox.png"
       ]
     },
     "properties": {
