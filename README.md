@@ -1,6 +1,6 @@
 # Animated Spinning Fox Dark
 
-A dark modern theme with an animated spinning fox logo (preview nightly). Created for Firefox add-ons.
+A dark modern theme with an animated spinning fox outline. Created for Firefox add-ons.
 
 ## Demo
 
