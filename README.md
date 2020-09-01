@@ -2,6 +2,7 @@
 
 A dark modern theme with an animated spinning fox outline. Created for Firefox add-ons.
 
+
 ## Demo
 
 ![theme-demo](https://github.com/jennifer-lu/Animated-Spinning-Fox-Dark/blob/master/demo.gif)
